@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { EmptyState } from "@/components/ui/EmptyState";
+import { listQuestionSets } from "@/lib/storage/json-store";
 
 const MOCK_SET_ID = "kbi-ai-literacy-80-balanced";
 
@@ -28,11 +29,8 @@ const TOPICS = [
 
 async function hasMockSet(): Promise<boolean> {
   try {
-    const baseUrl = process.env.NEXT_PUBLIC_BASE_URL ?? "http://localhost:3000";
-    const res = await fetch(`${baseUrl}/api/quiz`, { cache: "no-store" });
-    if (!res.ok) return false;
-    const data = await res.json();
-    return (data.quizzes ?? []).some((quiz: { id: string }) => quiz.id === MOCK_SET_ID);
+    const sets = await listQuestionSets();
+    return sets.some((set) => set.id === MOCK_SET_ID);
   } catch {
     return false;
   }
@@ -46,10 +44,10 @@ export default async function QuizListPage() {
       <EmptyState
         icon="📝"
         title="Mock 시험 세트가 없습니다"
-        description="먼저 문제은행 seed를 생성하세요."
+        description="배포에 문제은행 JSON이 포함되어 있는지 확인하세요."
         action={
           <div className="mt-2 rounded-lg bg-gray-100 p-3 text-left text-xs text-gray-600 font-mono">
-            npm run seed:question-bank
+            data/question-bank, data/question-sets
           </div>
         }
       />
