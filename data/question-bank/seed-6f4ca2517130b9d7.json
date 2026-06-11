@@ -4,7 +4,7 @@
   "documentName": "KBI AI Literacy Seed Bank",
   "documentHash": "93f0666c030350b7",
   "chunkHash": "cf57065a68f37694",
-  "question": "다음 설명 중 '딥러닝'의 핵심 취지와 가장 가까운 것은?",
+  "question": "금융 AI 리터러시 관점에서 '딥러닝'을 바르게 이해한 것은?",
   "choices": [
     "순차 데이터의 이전 정보를 반영하며 LSTM은 장기 의존성 문제를 완화하도록 설계되었다.",
     "여러 층의 신경망을 이용해 데이터의 복잡한 표현을 자동으로 학습하는 기술이다.",

@@ -4,7 +4,7 @@
   "documentName": "KBI AI Literacy Seed Bank",
   "documentHash": "93f0666c030350b7",
   "chunkHash": "9d3eda35e7f538da",
-  "question": "다음 중 '개인정보 보호'에 대한 설명으로 가장 적절한 것은?",
+  "question": "'개인정보 보호'에 대한 오해를 피하기 위해 알아야 할 내용으로 옳은 것은?",
   "choices": [
     "AI 판단이 특정 집단에 불합리하게 불리한 결과를 만들지 않도록 관리하는 원칙이다.",
     "AI의 주요 판단 근거를 사용자, 내부통제, 감독 목적에 맞게 이해 가능하게 제시하는 특성이다.",

@@ -4,7 +4,7 @@
   "documentName": "KBI AI Literacy Seed Bank",
   "documentHash": "93f0666c030350b7",
   "chunkHash": "7c6c04009fb2fd05",
-  "question": "다음 설명 중 '생성형 AI'의 핵심 취지와 가장 가까운 것은?",
+  "question": "'생성형 AI'에 대한 오해를 피하기 위해 알아야 할 내용으로 옳은 것은?",
   "choices": [
     "학습한 패턴을 바탕으로 텍스트, 이미지, 코드 등 새로운 콘텐츠를 생성하는 AI이다.",
     "여러 층의 신경망을 이용해 데이터의 복잡한 표현을 자동으로 학습하는 기술이다.",

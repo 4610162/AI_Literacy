@@ -4,7 +4,7 @@
   "documentName": "KBI AI Literacy Seed Bank",
   "documentHash": "93f0666c030350b7",
   "chunkHash": "910bc7be957343cb",
-  "question": "'AI 기반 여신 심사'에 대한 오해를 피하기 위해 알아야 할 내용으로 옳은 것은?",
+  "question": "금융회사에서 'AI 기반 여신 심사'를 다른 개념과 구분할 때 핵심 기준은?",
   "choices": [
     "신청자의 재무정보와 거래행태를 분석해 심사 속도와 위험 평가의 정교함을 높인다.",
     "거래 네트워크와 패턴을 분석해 의심거래 후보를 탐지하고 AML 업무를 지원한다.",

@@ -4,7 +4,7 @@
   "documentName": "KBI AI Literacy Seed Bank",
   "documentHash": "93f0666c030350b7",
   "chunkHash": "cf57065a68f37694",
-  "question": "다음 설명 중 '딥러닝'의 핵심 취지와 가장 가까운 것은?",
+  "question": "다음 중 '딥러닝'에 대한 설명으로 가장 적절한 것은?",
   "choices": [
     "합성곱 필터로 공간적 특징을 추출해 이미지와 영상 분석에 강점을 갖는 신경망 구조이다.",
     "순차 데이터의 이전 정보를 반영하며 LSTM은 장기 의존성 문제를 완화하도록 설계되었다.",

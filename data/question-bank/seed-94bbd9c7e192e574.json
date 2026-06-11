@@ -4,7 +4,7 @@
   "documentName": "KBI AI Literacy Seed Bank",
   "documentHash": "93f0666c030350b7",
   "chunkHash": "bd08aaeb53ce2326",
-  "question": "다음 중 'RNN과 LSTM'에 대한 설명으로 가장 적절한 것은?",
+  "question": "'RNN과 LSTM'에 대한 오해를 피하기 위해 알아야 할 내용으로 옳은 것은?",
   "choices": [
     "정답이 포함된 학습 데이터로 입력과 출력의 관계를 학습해 새로운 사례를 예측하는 방식이다.",
     "순차 데이터의 이전 정보를 반영하며 LSTM은 장기 의존성 문제를 완화하도록 설계되었다.",

@@ -4,7 +4,7 @@
   "documentName": "KBI AI Literacy Seed Bank",
   "documentHash": "93f0666c030350b7",
   "chunkHash": "9751f78a6d1faede",
-  "question": "다음 중 '신용평가 AI'에 대한 설명으로 가장 적절한 것은?",
+  "question": "금융 AI 리터러시 관점에서 '신용평가 AI'를 바르게 이해한 것은?",
   "choices": [
     "고객 성향과 시장 데이터를 분석해 포트폴리오 추천과 자산배분을 자동화한다.",
     "자연어 처리 기술로 고객 문의를 이해하고 답변하거나 상담원을 보조하는 서비스이다.",

@@ -4,7 +4,7 @@
   "documentName": "KBI AI Literacy Seed Bank",
   "documentHash": "93f0666c030350b7",
   "chunkHash": "b408a5d7a47e3125",
-  "question": "금융 AI 리터러시 관점에서 '책임성'을 바르게 이해한 것은?",
+  "question": "다음 설명 중 '책임성'의 핵심 취지와 가장 가까운 것은?",
   "choices": [
     "AI 사용 여부, 주요 기능, 한계와 위험을 이해관계자가 알 수 있도록 공개하고 관리하는 원칙이다.",
     "중요한 금융 판단에서 사람이 AI 결과를 검토하고 개입할 수 있는 절차를 두는 원칙이다.",

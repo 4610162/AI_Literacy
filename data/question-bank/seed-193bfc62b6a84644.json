@@ -4,7 +4,7 @@
   "documentName": "KBI AI Literacy Seed Bank",
   "documentHash": "93f0666c030350b7",
   "chunkHash": "7ae68b0a2e93b1b1",
-  "question": "'CNN'에 대한 오해를 피하기 위해 알아야 할 내용으로 옳은 것은?",
+  "question": "금융 AI 리터러시 관점에서 'CNN'를 바르게 이해한 것은?",
   "choices": [
     "셀프 어텐션을 이용해 입력 요소 간 관계를 병렬적으로 학습하는 모델 구조이다.",
     "입력 텍스트를 단어, 부분 단어, 기호 등 모델이 처리할 수 있는 토큰 단위로 나누는 과정이다.",

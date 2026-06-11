@@ -4,7 +4,7 @@
   "documentName": "KBI AI Literacy Seed Bank",
   "documentHash": "93f0666c030350b7",
   "chunkHash": "195adc1a3a108df3",
-  "question": "금융회사에서 '적대적 공격'을 다른 개념과 구분할 때 핵심 기준은?",
+  "question": "다음 중 '적대적 공격'에 대한 설명으로 가장 적절한 것은?",
   "choices": [
     "생성형 AI에 악의적 지시를 삽입해 정책 우회, 정보 유출, 잘못된 행동을 유도하는 공격이다.",
     "데이터와 모델, 운영도구에 대한 권한을 역할에 따라 제한하고 기록하는 보안 통제이다.",

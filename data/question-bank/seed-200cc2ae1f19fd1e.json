@@ -4,7 +4,7 @@
   "documentName": "KBI AI Literacy Seed Bank",
   "documentHash": "93f0666c030350b7",
   "chunkHash": "36ef9491002cabda",
-  "question": "다음 설명 중 '챗봇과 상담 자동화'의 핵심 취지와 가장 가까운 것은?",
+  "question": "'챗봇과 상담 자동화'에 대한 오해를 피하기 위해 알아야 할 내용으로 옳은 것은?",
   "choices": [
     "OCR과 자연어 처리로 서류 내용을 추출하고 누락, 불일치, 위험 문구를 검토한다.",
     "고객의 목적, 거래패턴, 위험성향을 분석해 적합한 상품이나 서비스를 추천한다.",

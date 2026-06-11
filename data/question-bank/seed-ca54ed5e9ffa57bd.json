@@ -4,7 +4,7 @@
   "documentName": "KBI AI Literacy Seed Bank",
   "documentHash": "93f0666c030350b7",
   "chunkHash": "36ef9491002cabda",
-  "question": "다음 설명 중 '챗봇과 상담 자동화'의 핵심 취지와 가장 가까운 것은?",
+  "question": "금융회사에서 '챗봇과 상담 자동화'를 다른 개념과 구분할 때 핵심 기준은?",
   "choices": [
     "가입자의 위험 요인을 분석해 보험 인수 여부와 보험료 산정 보조에 활용된다.",
     "거래 네트워크와 패턴을 분석해 의심거래 후보를 탐지하고 AML 업무를 지원한다.",

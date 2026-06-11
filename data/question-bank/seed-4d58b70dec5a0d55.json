@@ -4,7 +4,7 @@
   "documentName": "KBI AI Literacy Seed Bank",
   "documentHash": "93f0666c030350b7",
   "chunkHash": "bd08aaeb53ce2326",
-  "question": "다음 중 'RNN과 LSTM'에 대한 설명으로 가장 적절한 것은?",
+  "question": "금융회사에서 'RNN과 LSTM'를 다른 개념과 구분할 때 핵심 기준은?",
   "choices": [
     "학습한 패턴을 바탕으로 텍스트, 이미지, 코드 등 새로운 콘텐츠를 생성하는 AI이다.",
     "순차 데이터의 이전 정보를 반영하며 LSTM은 장기 의존성 문제를 완화하도록 설계되었다.",

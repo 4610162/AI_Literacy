@@ -4,7 +4,7 @@
   "documentName": "KBI AI Literacy Seed Bank",
   "documentHash": "93f0666c030350b7",
   "chunkHash": "ead3ccfffdeae6f9",
-  "question": "금융회사에서 '인간의 감독'을 다른 개념과 구분할 때 핵심 기준은?",
+  "question": "다음 중 '인간의 감독'에 대한 설명으로 가장 적절한 것은?",
   "choices": [
     "AI 판단이 특정 집단에 불합리하게 불리한 결과를 만들지 않도록 관리하는 원칙이다.",
     "AI의 주요 판단 근거를 사용자, 내부통제, 감독 목적에 맞게 이해 가능하게 제시하는 특성이다.",

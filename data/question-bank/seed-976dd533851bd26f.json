@@ -4,7 +4,7 @@
   "documentName": "KBI AI Literacy Seed Bank",
   "documentHash": "93f0666c030350b7",
   "chunkHash": "1c64e9b3bccd114b",
-  "question": "다음 중 '투자전략 AI'에 대한 설명으로 가장 적절한 것은?",
+  "question": "금융회사에서 '투자전략 AI'를 다른 개념과 구분할 때 핵심 기준은?",
   "choices": [
     "OCR과 자연어 처리로 서류 내용을 추출하고 누락, 불일치, 위험 문구를 검토한다.",
     "시장 데이터와 뉴스, 지표를 분석해 자산 가격 변동 가능성과 매매 신호를 탐색한다.",

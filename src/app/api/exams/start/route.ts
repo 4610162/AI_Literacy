@@ -9,6 +9,7 @@ import {
   sampleQuestions,
   shuffleArray,
   toExamQuestionPublic,
+  uniqueByQuestionText,
 } from "@/lib/exam/session";
 import type { Difficulty, QuestionBankItem, QuestionSet } from "@/types";
 import { logger } from "@/lib/logger";
@@ -151,7 +152,7 @@ export async function POST(request: NextRequest) {
     }
 
     const bankItems = await findQuestionBankItemsByIds(questionSet.questionIds);
-    const activeItems = bankItems.filter((item) => item.status === "active");
+    const activeItems = uniqueByQuestionText(bankItems.filter((item) => item.status === "active"));
 
     const questionCount = parsed.data.questionCount ?? questionSet.examConfig?.totalQuestions ?? 80;
 

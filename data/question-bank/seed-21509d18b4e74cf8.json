@@ -4,7 +4,7 @@
   "documentName": "KBI AI Literacy Seed Bank",
   "documentHash": "93f0666c030350b7",
   "chunkHash": "9d3eda35e7f538da",
-  "question": "다음 설명 중 '개인정보 보호'의 핵심 취지와 가장 가까운 것은?",
+  "question": "다음 중 '개인정보 보호'에 대한 설명으로 가장 적절한 것은?",
   "choices": [
     "추가 정보 없이는 특정 개인을 알아볼 수 없도록 처리한 정보로, 재식별 위험 관리가 필요하다.",
     "학습 데이터나 설계 편향으로 특정 집단에 체계적으로 불리한 판단이 발생하는 문제이다.",

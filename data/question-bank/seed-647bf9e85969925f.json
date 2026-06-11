@@ -4,7 +4,7 @@
   "documentName": "KBI AI Literacy Seed Bank",
   "documentHash": "93f0666c030350b7",
   "chunkHash": "ae51afa3635205f3",
-  "question": "금융회사에서 '강화학습'을 다른 개념과 구분할 때 핵심 기준은?",
+  "question": "다음 설명 중 '강화학습'의 핵심 취지와 가장 가까운 것은?",
   "choices": [
     "에이전트가 환경과 상호작용하며 보상을 최대화하는 행동 정책을 학습하는 방식이다.",
     "셀프 어텐션을 이용해 입력 요소 간 관계를 병렬적으로 학습하는 모델 구조이다.",

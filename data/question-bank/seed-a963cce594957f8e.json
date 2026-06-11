@@ -4,7 +4,7 @@
   "documentName": "KBI AI Literacy Seed Bank",
   "documentHash": "93f0666c030350b7",
   "chunkHash": "acacff4e69a4f90f",
-  "question": "금융 AI 리터러시 관점에서 '비지도학습'을 바르게 이해한 것은?",
+  "question": "다음 중 '비지도학습'에 대한 설명으로 가장 적절한 것은?",
   "choices": [
     "에이전트가 환경과 상호작용하며 보상을 최대화하는 행동 정책을 학습하는 방식이다.",
     "정답 라벨 없이 데이터의 숨은 구조, 군집, 패턴을 탐색하는 학습 방식이다.",

@@ -4,7 +4,7 @@
   "documentName": "KBI AI Literacy Seed Bank",
   "documentHash": "93f0666c030350b7",
   "chunkHash": "1c64e9b3bccd114b",
-  "question": "다음 중 '투자전략 AI'에 대한 설명으로 가장 적절한 것은?",
+  "question": "다음 설명 중 '투자전략 AI'의 핵심 취지와 가장 가까운 것은?",
   "choices": [
     "고객의 목적, 거래패턴, 위험성향을 분석해 적합한 상품이나 서비스를 추천한다.",
     "고객의 상환 가능성과 부도 위험을 예측해 대출 심사와 한도 산정에 활용된다.",

@@ -4,7 +4,7 @@
   "documentName": "KBI AI Literacy Seed Bank",
   "documentHash": "93f0666c030350b7",
   "chunkHash": "cd786ffba62ea925",
-  "question": "금융회사에서 '로보어드바이저'를 다른 개념과 구분할 때 핵심 기준은?",
+  "question": "'로보어드바이저'에 대한 오해를 피하기 위해 알아야 할 내용으로 옳은 것은?",
   "choices": [
     "거래 네트워크와 패턴을 분석해 의심거래 후보를 탐지하고 AML 업무를 지원한다.",
     "OCR과 자연어 처리로 서류 내용을 추출하고 누락, 불일치, 위험 문구를 검토한다.",

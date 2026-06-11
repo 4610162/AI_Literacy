@@ -4,7 +4,7 @@
   "documentName": "KBI AI Literacy Seed Bank",
   "documentHash": "93f0666c030350b7",
   "chunkHash": "195adc1a3a108df3",
-  "question": "다음 중 '적대적 공격'에 대한 설명으로 가장 적절한 것은?",
+  "question": "다음 설명 중 '적대적 공격'의 핵심 취지와 가장 가까운 것은?",
   "choices": [
     "입력값을 교묘히 조작해 AI 모델이 오판하도록 유도하는 공격이다.",
     "모델 개발, 검증, 승인, 운영, 변경, 폐기 전 과정의 위험을 식별하고 통제하는 체계이다.",

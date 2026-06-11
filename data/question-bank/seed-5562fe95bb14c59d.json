@@ -4,7 +4,7 @@
   "documentName": "KBI AI Literacy Seed Bank",
   "documentHash": "93f0666c030350b7",
   "chunkHash": "357172b5942ad497",
-  "question": "다음 설명 중 '공정성'의 핵심 취지와 가장 가까운 것은?",
+  "question": "금융 AI 리터러시 관점에서 '공정성'을 바르게 이해한 것은?",
   "choices": [
     "AI 판단이 특정 집단에 불합리하게 불리한 결과를 만들지 않도록 관리하는 원칙이다.",
     "AI 시스템의 설계, 운영, 결과에 대해 역할과 책임 주체를 명확히 하는 원칙이다.",

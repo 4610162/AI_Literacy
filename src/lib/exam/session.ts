@@ -18,6 +18,24 @@ export function sampleQuestions(
   return source.slice(0, count);
 }
 
+function normalizeQuestionText(question: string): string {
+  return question.replace(/\s+/g, " ").trim();
+}
+
+export function uniqueByQuestionText(questions: QuestionBankItem[]): QuestionBankItem[] {
+  const seen = new Set<string>();
+  const unique: QuestionBankItem[] = [];
+
+  for (const question of questions) {
+    const key = normalizeQuestionText(question.question);
+    if (seen.has(key)) continue;
+    seen.add(key);
+    unique.push(question);
+  }
+
+  return unique;
+}
+
 export function buildChoiceOrder(question: QuestionBankItem, shuffleChoices: boolean): number[] {
   const order = question.choices.map((_, index) => index);
   return shuffleChoices ? shuffleArray(order) : order;

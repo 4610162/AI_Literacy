@@ -4,7 +4,7 @@
   "documentName": "KBI AI Literacy Seed Bank",
   "documentHash": "93f0666c030350b7",
   "chunkHash": "1aa063017a1c6dab",
-  "question": "다음 중 '지도학습'에 대한 설명으로 가장 적절한 것은?",
+  "question": "금융회사에서 '지도학습'을 다른 개념과 구분할 때 핵심 기준은?",
   "choices": [
     "정답이 포함된 학습 데이터로 입력과 출력의 관계를 학습해 새로운 사례를 예측하는 방식이다.",
     "여러 층의 신경망을 이용해 데이터의 복잡한 표현을 자동으로 학습하는 기술이다.",

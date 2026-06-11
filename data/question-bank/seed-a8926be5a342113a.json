@@ -4,7 +4,7 @@
   "documentName": "KBI AI Literacy Seed Bank",
   "documentHash": "93f0666c030350b7",
   "chunkHash": "ead3ccfffdeae6f9",
-  "question": "다음 중 '인간의 감독'에 대한 설명으로 가장 적절한 것은?",
+  "question": "금융 AI 리터러시 관점에서 '인간의 감독'을 바르게 이해한 것은?",
   "choices": [
     "AI의 주요 판단 근거를 사용자, 내부통제, 감독 목적에 맞게 이해 가능하게 제시하는 특성이다.",
     "AI 시스템의 설계, 운영, 결과에 대해 역할과 책임 주체를 명확히 하는 원칙이다.",

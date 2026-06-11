@@ -4,7 +4,7 @@
   "documentName": "KBI AI Literacy Seed Bank",
   "documentHash": "93f0666c030350b7",
   "chunkHash": "cd786ffba62ea925",
-  "question": "금융회사에서 '로보어드바이저'를 다른 개념과 구분할 때 핵심 기준은?",
+  "question": "다음 설명 중 '로보어드바이저'의 핵심 취지와 가장 가까운 것은?",
   "choices": [
     "고객 성향과 시장 데이터를 분석해 포트폴리오 추천과 자산배분을 자동화한다.",
     "가입자의 위험 요인을 분석해 보험 인수 여부와 보험료 산정 보조에 활용된다.",

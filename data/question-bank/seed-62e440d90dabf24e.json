@@ -4,7 +4,7 @@
   "documentName": "KBI AI Literacy Seed Bank",
   "documentHash": "93f0666c030350b7",
   "chunkHash": "0cb6bac3a20d5761",
-  "question": "다음 중 '가명정보'에 대한 설명으로 가장 적절한 것은?",
+  "question": "금융회사에서 '가명정보'를 다른 개념과 구분할 때 핵심 기준은?",
   "choices": [
     "추가 정보 없이는 특정 개인을 알아볼 수 없도록 처리한 정보로, 재식별 위험 관리가 필요하다.",
     "중요한 금융 판단에서 사람이 AI 결과를 검토하고 개입할 수 있는 절차를 두는 원칙이다.",

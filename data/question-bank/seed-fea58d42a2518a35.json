@@ -4,7 +4,7 @@
   "documentName": "KBI AI Literacy Seed Bank",
   "documentHash": "93f0666c030350b7",
   "chunkHash": "c8963a63448b68c3",
-  "question": "금융회사에서 '자금세탁방지 AI'를 다른 개념과 구분할 때 핵심 기준은?",
+  "question": "금융 AI 리터러시 관점에서 '자금세탁방지 AI'를 바르게 이해한 것은?",
   "choices": [
     "고객의 목적, 거래패턴, 위험성향을 분석해 적합한 상품이나 서비스를 추천한다.",
     "거래 네트워크와 패턴을 분석해 의심거래 후보를 탐지하고 AML 업무를 지원한다.",

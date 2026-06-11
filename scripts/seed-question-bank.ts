@@ -602,7 +602,8 @@ function buildQuestionItems(): QuestionBankItem[] {
     const difficulties = difficultyPlan(categoryPlan.bankCount);
     for (let index = 0; index < categoryPlan.bankCount; index++) {
       const topic = categoryPlan.topics[index % categoryPlan.topics.length];
-      const stem = STEMS[index % STEMS.length](topic);
+      const topicOccurrence = Math.floor(index / categoryPlan.topics.length);
+      const stem = STEMS[topicOccurrence % STEMS.length](topic);
       const difficulty = difficulties[index];
       const answerIndex = index % 4;
       const id = `seed-${hashText(`${categoryPlan.category}-${topic.label}-${index}`)}`;

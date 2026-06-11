@@ -4,7 +4,7 @@
   "documentName": "KBI AI Literacy Seed Bank",
   "documentHash": "93f0666c030350b7",
   "chunkHash": "d40a58ca875255f9",
-  "question": "금융 AI 리터러시 관점에서 '보험 언더라이팅 AI'를 바르게 이해한 것은?",
+  "question": "다음 설명 중 '보험 언더라이팅 AI'의 핵심 취지와 가장 가까운 것은?",
   "choices": [
     "가입자의 위험 요인을 분석해 보험 인수 여부와 보험료 산정 보조에 활용된다.",
     "고객의 상환 가능성과 부도 위험을 예측해 대출 심사와 한도 산정에 활용된다.",

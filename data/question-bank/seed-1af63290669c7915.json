@@ -4,7 +4,7 @@
   "documentName": "KBI AI Literacy Seed Bank",
   "documentHash": "93f0666c030350b7",
   "chunkHash": "acacff4e69a4f90f",
-  "question": "금융 AI 리터러시 관점에서 '비지도학습'을 바르게 이해한 것은?",
+  "question": "'비지도학습'에 대한 오해를 피하기 위해 알아야 할 내용으로 옳은 것은?",
   "choices": [
     "셀프 어텐션을 이용해 입력 요소 간 관계를 병렬적으로 학습하는 모델 구조이다.",
     "정답 라벨 없이 데이터의 숨은 구조, 군집, 패턴을 탐색하는 학습 방식이다.",

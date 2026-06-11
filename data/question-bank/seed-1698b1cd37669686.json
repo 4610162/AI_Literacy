@@ -4,7 +4,7 @@
   "documentName": "KBI AI Literacy Seed Bank",
   "documentHash": "93f0666c030350b7",
   "chunkHash": "0cb6bac3a20d5761",
-  "question": "금융회사에서 '가명정보'를 다른 개념과 구분할 때 핵심 기준은?",
+  "question": "금융 AI 리터러시 관점에서 '가명정보'를 바르게 이해한 것은?",
   "choices": [
     "추가 정보 없이는 특정 개인을 알아볼 수 없도록 처리한 정보로, 재식별 위험 관리가 필요하다.",
     "AI 사용 여부, 주요 기능, 한계와 위험을 이해관계자가 알 수 있도록 공개하고 관리하는 원칙이다.",

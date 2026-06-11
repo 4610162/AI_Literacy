@@ -4,7 +4,7 @@
   "documentName": "KBI AI Literacy Seed Bank",
   "documentHash": "93f0666c030350b7",
   "chunkHash": "7ae68b0a2e93b1b1",
-  "question": "'CNN'에 대한 오해를 피하기 위해 알아야 할 내용으로 옳은 것은?",
+  "question": "다음 설명 중 'CNN'의 핵심 취지와 가장 가까운 것은?",
   "choices": [
     "학습한 패턴을 바탕으로 텍스트, 이미지, 코드 등 새로운 콘텐츠를 생성하는 AI이다.",
     "모델이 학습 데이터에 지나치게 맞춰져 새로운 데이터에서 성능이 떨어지는 현상이다.",

@@ -4,7 +4,7 @@
   "documentName": "KBI AI Literacy Seed Bank",
   "documentHash": "93f0666c030350b7",
   "chunkHash": "195adc1a3a108df3",
-  "question": "다음 설명 중 '적대적 공격'의 핵심 취지와 가장 가까운 것은?",
+  "question": "금융 AI 리터러시 관점에서 '적대적 공격'을 바르게 이해한 것은?",
   "choices": [
     "입력값을 교묘히 조작해 AI 모델이 오판하도록 유도하는 공격이다.",
     "데이터와 모델, 운영도구에 대한 권한을 역할에 따라 제한하고 기록하는 보안 통제이다.",

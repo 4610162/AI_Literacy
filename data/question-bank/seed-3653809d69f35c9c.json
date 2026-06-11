@@ -4,7 +4,7 @@
   "documentName": "KBI AI Literacy Seed Bank",
   "documentHash": "93f0666c030350b7",
   "chunkHash": "36ef9491002cabda",
-  "question": "다음 설명 중 '챗봇과 상담 자동화'의 핵심 취지와 가장 가까운 것은?",
+  "question": "금융 AI 리터러시 관점에서 '챗봇과 상담 자동화'를 바르게 이해한 것은?",
   "choices": [
     "시장 데이터와 뉴스, 지표를 분석해 자산 가격 변동 가능성과 매매 신호를 탐색한다.",
     "자연어 처리 기술로 고객 문의를 이해하고 답변하거나 상담원을 보조하는 서비스이다.",

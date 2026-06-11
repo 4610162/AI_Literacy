@@ -4,7 +4,7 @@
   "documentName": "KBI AI Literacy Seed Bank",
   "documentHash": "93f0666c030350b7",
   "chunkHash": "cd786ffba62ea925",
-  "question": "금융회사에서 '로보어드바이저'를 다른 개념과 구분할 때 핵심 기준은?",
+  "question": "다음 중 '로보어드바이저'에 대한 설명으로 가장 적절한 것은?",
   "choices": [
     "자연어 처리 기술로 고객 문의를 이해하고 답변하거나 상담원을 보조하는 서비스이다.",
     "신청자의 재무정보와 거래행태를 분석해 심사 속도와 위험 평가의 정교함을 높인다.",

@@ -4,7 +4,7 @@
   "documentName": "KBI AI Literacy Seed Bank",
   "documentHash": "93f0666c030350b7",
   "chunkHash": "9d3eda35e7f538da",
-  "question": "금융회사에서 '개인정보 보호'를 다른 개념과 구분할 때 핵심 기준은?",
+  "question": "다음 설명 중 '개인정보 보호'의 핵심 취지와 가장 가까운 것은?",
   "choices": [
     "중요한 금융 판단에서 사람이 AI 결과를 검토하고 개입할 수 있는 절차를 두는 원칙이다.",
     "AI 판단이 특정 집단에 불합리하게 불리한 결과를 만들지 않도록 관리하는 원칙이다.",

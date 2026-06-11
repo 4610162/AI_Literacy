@@ -4,7 +4,7 @@
   "documentName": "KBI AI Literacy Seed Bank",
   "documentHash": "93f0666c030350b7",
   "chunkHash": "9751f78a6d1faede",
-  "question": "다음 중 '신용평가 AI'에 대한 설명으로 가장 적절한 것은?",
+  "question": "금융회사에서 '신용평가 AI'를 다른 개념과 구분할 때 핵심 기준은?",
   "choices": [
     "고객의 상환 가능성과 부도 위험을 예측해 대출 심사와 한도 산정에 활용된다.",
     "자연어 처리 기술로 고객 문의를 이해하고 답변하거나 상담원을 보조하는 서비스이다.",

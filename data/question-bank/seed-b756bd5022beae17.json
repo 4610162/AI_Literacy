@@ -4,7 +4,7 @@
   "documentName": "KBI AI Literacy Seed Bank",
   "documentHash": "93f0666c030350b7",
   "chunkHash": "acacff4e69a4f90f",
-  "question": "금융 AI 리터러시 관점에서 '비지도학습'을 바르게 이해한 것은?",
+  "question": "다음 설명 중 '비지도학습'의 핵심 취지와 가장 가까운 것은?",
   "choices": [
     "순차 데이터의 이전 정보를 반영하며 LSTM은 장기 의존성 문제를 완화하도록 설계되었다.",
     "셀프 어텐션을 이용해 입력 요소 간 관계를 병렬적으로 학습하는 모델 구조이다.",

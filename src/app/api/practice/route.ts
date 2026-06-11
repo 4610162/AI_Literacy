@@ -5,6 +5,7 @@ import {
   alignExplanationAnswerNumber,
   buildChoiceOrder,
   shuffleArray,
+  uniqueByQuestionText,
 } from "@/lib/exam/session";
 import type { QuestionBankItem, QuizCategory } from "@/types";
 import { logger } from "@/lib/logger";
@@ -48,10 +49,10 @@ export async function GET(request: NextRequest) {
 
   try {
     const { category, count } = parsed.data;
-    const questions = await listQuestionBankItems({
+    const questions = uniqueByQuestionText(await listQuestionBankItems({
       status: "active",
       category: category as QuizCategory,
-    });
+    }));
 
     if (questions.length === 0) {
       return NextResponse.json({ error: "해당 주제의 문제가 없습니다." }, { status: 404 });

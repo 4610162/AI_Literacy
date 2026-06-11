@@ -4,7 +4,7 @@
   "documentName": "KBI AI Literacy Seed Bank",
   "documentHash": "93f0666c030350b7",
   "chunkHash": "d40a58ca875255f9",
-  "question": "금융 AI 리터러시 관점에서 '보험 언더라이팅 AI'를 바르게 이해한 것은?",
+  "question": "다음 중 '보험 언더라이팅 AI'에 대한 설명으로 가장 적절한 것은?",
   "choices": [
     "거래 네트워크와 패턴을 분석해 의심거래 후보를 탐지하고 AML 업무를 지원한다.",
     "OCR과 자연어 처리로 서류 내용을 추출하고 누락, 불일치, 위험 문구를 검토한다.",
