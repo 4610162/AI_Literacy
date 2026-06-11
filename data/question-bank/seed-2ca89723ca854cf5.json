@@ -1,0 +1,26 @@
+{
+  "id": "seed-2ca89723ca854cf5",
+  "documentId": "kbi-ai-literacy-seed",
+  "documentName": "KBI AI Literacy Seed Bank",
+  "documentHash": "93f0666c030350b7",
+  "chunkHash": "bd08aaeb53ce2326",
+  "question": "다음 중 'RNN과 LSTM'에 대한 설명으로 가장 적절한 것은?",
+  "choices": [
+    "셀프 어텐션을 이용해 입력 요소 간 관계를 병렬적으로 학습하는 모델 구조이다.",
+    "순차 데이터의 이전 정보를 반영하며 LSTM은 장기 의존성 문제를 완화하도록 설계되었다.",
+    "입력 텍스트를 단어, 부분 단어, 기호 등 모델이 처리할 수 있는 토큰 단위로 나누는 과정이다.",
+    "학습한 패턴을 바탕으로 텍스트, 이미지, 코드 등 새로운 콘텐츠를 생성하는 AI이다."
+  ],
+  "answerIndex": 1,
+  "explanation": "정답은 2번입니다. RNN과 LSTM의 판단 근거는 \"RNN은 순차 정보를 처리하고 LSTM은 게이트 구조로 장기 의존성 문제를 개선한다. 순차 데이터의 이전 정보를 반영하며 LSTM은 장기 의존성 문제를 완화하도록 설계되었다.\"입니다. 정답 선택지는 이 근거의 핵심 요건을 충족합니다. 오답 선택지는 트랜스포머, LLM의 토큰화, 생성형 AI에 관한 설명이거나, RNN과 LSTM의 핵심 요건과 다른 효과·통제 대상을 전제로 하므로 정답이 될 수 없습니다.",
+  "sourceText": "RNN은 순차 정보를 처리하고 LSTM은 게이트 구조로 장기 의존성 문제를 개선한다. 순차 데이터의 이전 정보를 반영하며 LSTM은 장기 의존성 문제를 완화하도록 설계되었다.",
+  "category": "AI 개념 및 주요 AI 기술의 이해",
+  "difficulty": "easy",
+  "status": "active",
+  "usageCount": 0,
+  "correctCount": 0,
+  "incorrectCount": 0,
+  "qualityScore": 0.92,
+  "createdAt": "2026-06-11T00:00:00.000Z",
+  "updatedAt": "2026-06-11T00:00:00.000Z"
+}

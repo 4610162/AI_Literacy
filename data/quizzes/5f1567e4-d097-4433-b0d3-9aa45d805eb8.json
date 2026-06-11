@@ -1,0 +1,196 @@
+{
+  "id": "5f1567e4-d097-4433-b0d3-9aa45d805eb8",
+  "title": "Quiz: Workbook_01, Workbook_02, Workbook_03, Workbook_04, Workbook_05, Workbook_06, Workbook_07, Workbook_08, Workbook_09, Workbook_10, Workbook_11, Workbook_12, Workbook_13, Workbook_14, Workbook_15 (mixed)",
+  "documentNames": [
+    "Workbook_01",
+    "Workbook_02",
+    "Workbook_03",
+    "Workbook_04",
+    "Workbook_05",
+    "Workbook_06",
+    "Workbook_07",
+    "Workbook_08",
+    "Workbook_09",
+    "Workbook_10",
+    "Workbook_11",
+    "Workbook_12",
+    "Workbook_13",
+    "Workbook_14",
+    "Workbook_15"
+  ],
+  "difficulty": "mixed",
+  "questions": [
+    {
+      "id": "2aa0dea5-8392-4492-9d17-ae2bcadf470e",
+      "documentName": "Workbook_01",
+      "page": 8,
+      "question": "다음 중 1970년대부터 1980년대까지 발생한 '1차 AI 겨울'의 주요 특징으로 가장 적절한 것은 무엇입니까?",
+      "choices": [
+        "① 한정된 컴퓨팅 파워와 지식 표현 문제로 인한 자금 지원 축소",
+        "② 딥러닝 혁명으로 인한 AI 기술의 폭발적인 발전",
+        "③ 전문가 시스템의 붐과 일본 5세대 프로젝트의 성공",
+        "④ 통계 기반 AI의 부상과 IBM 딥블루의 체스 챔피언 격파"
+      ],
+      "answerIndex": 0,
+      "explanation": "정답: ① 원문 텍스트에 따르면, 1970년대부터 1980년대까지의 '1차 AI 겨울'은 '한정된 컴퓨팅 파워, 지식 표현 문제, 전문가 시스템의 한계로 인한 자금 지원 축소'가 주요 특징이었습니다. 오답: ②는 2010년대 이후의 딥러닝 혁명 시기, ③은 1980년대부터 1990년대의 전문가 시스템 붐 시기, ④는 1990년대부터 2000년대의 통계 기반 AI 부상 시기의 특징입니다.",
+      "sourceText": "1970~1980 년대 1 차 AI 겨울 ( 과대 기대 → 좌절 ) 한정된 컴퓨팅 파워 , 지식 표현 문제 전문가 시스템의 한계로 인한 자금 지원 축소",
+      "difficulty": "easy",
+      "category": "AI 기초 이해"
+    },
+    {
+      "id": "de14d728-7d73-4131-bd24-3f28f273d144",
+      "documentName": "Workbook_01",
+      "page": 36,
+      "question": "KBI 금융사는 포트폴리오 구성 및 자동매매 전략 수립을 위해 강화학습과 시계열 딥러닝 기반 모델을 적극적으로 활용하고 있습니다. 이러한 금융 분야 활용 목적은 인공지능 분류 방식 중 어느 것에 해당하며, 주로 어떤 AI 분류에 속합니까?",
+      "choices": [
+        "① 투자 자산 운용 - 연결주의",
+        "② 부정거래 탐지 - 하이브리드",
+        "③ 리스크 관리 - 기호주의",
+        "④ 신용평가 - 기호주의"
+      ],
+      "answerIndex": 0,
+      "explanation": "정답: ① 원문 텍스트에 따르면, '투자 자산 운용'은 '포트폴리오 구성, 자동매매 전략'을 목적으로 하며, '퀀트 펀드에서 강화학습, 시계열 딥러닝 기반 모델 적극 활용함'으로 설명되어 '연결주의' AI 분류에 속합니다. 오답: ② 부정거래 탐지는 하이브리드, ③ 리스크 관리는 기호주의, ④ 신용평가는 기호주의가 주류입니다.",
+      "sourceText": "투자 자산 운용 포트폴리오 구성 , 자동매매 전략 연결주의 퀀트 펀드에서 강화학습 , 시계열 딥러닝 기반 모델 적극 활용함",
+      "difficulty": "medium",
+      "category": "금융 AI 활용"
+    },
+    {
+      "id": "ab78de2f-6a96-4f12-9d87-2291cc391ffb",
+      "documentName": "Workbook_03",
+      "page": 11,
+      "question": "다음 딥러닝 모델 중, 합성곱과 풀링 층을 반복하여 이미지나 공간 정보를 추출하는 구조를 가지며, 이미지 분류, 객체 탐지, 의료 영상 분석 및 자율 주행 등에 주로 활용되는 것은 무엇입니까?",
+      "choices": [
+        "① MLP (Multilayer Perceptron)",
+        "② CNN (Convolutional Neural Network)",
+        "③ RNN (Recurrent Neural Network)",
+        "④ LSTM (Long Short-Term Memory)"
+      ],
+      "answerIndex": 1,
+      "explanation": "정답: ② 원문 텍스트에 따르면, CNN은 '합성곱과 풀링 층을 반복해 이미지나 공간 정보를 추출하는 구조'를 가지며, '이미지 분류, 객체 탐지, 의료 영상 분석, 자율 주행 등'에 활용됩니다. 오답: ① MLP는 고정된 입력 데이터의 분류/회귀 문제에, ③ RNN과 ④ LSTM은 순차적인 시퀀스, 시계열 데이터 처리에 활용됩니다.",
+      "sourceText": "CNN (Convolutional Neural Network) Conv → ReLU → Pooling 층의 반복 후 FC 층 합성곱과 풀링 층을 반복해 이미지나 공간 정보를 추출하는 구조 이미지 분류 , 객체 탐지 , 의료 영상 분석 , 자율 주행 등에 활용됨",
+      "difficulty": "medium",
+      "category": "AI 기초 이해"
+    },
+    {
+      "id": "66b08ea3-9686-4a53-a953-5f73053177f9",
+      "documentName": "Workbook_03",
+      "page": 40,
+      "question": "트랜스포머 모델이 RNN 및 LSTM 모델의 주요 한계점이었던 순차적 처리의 느림과 장기의존성 문제를 해결할 수 있었던 핵심적인 기법은 무엇입니까?",
+      "choices": [
+        "① 완전 연결층(Fully Connected Layers)을 통한 심층 신경망 구성",
+        "② 합성곱(Convolution) 연산을 활용한 특징 추출",
+        "③ Self-Attention 메커니즘을 통한 병렬 연산 및 전 범위 의존성 처리",
+        "④ 게이트(Gate) 구조를 추가하여 장기 기억 능력 강화"
+      ],
+      "answerIndex": 2,
+      "explanation": "정답: ③ 원문 텍스트에 따르면, 트랜스포머는 'Self-Attention 메커니즘을 통해 학습하여 순차 처리 없이 병렬 연산이 가능함'으로써 RNN, LSTM의 '순차적 처리 → 느림' 및 '장기의존성 문제'를 'Attention 기반 병렬 처리 전 범위 의존성 처리 가능'으로 해결했습니다. 오답: ①은 MLP의 특징, ②는 CNN의 특징, ④는 LSTM이 RNN의 장기의존성 문제를 개선한 방법이지만, 트랜스포머의 핵심 해결 기법은 아닙니다.",
+      "sourceText": "트랜스포머 (Transformer) 2017 년 논문 “ Attention is All You Need” (Vaswani et al.) 에서 처음 제안된 기존 구조의 한계를 해결한 모델 Self - Attention 메커니즘을 통해 학습하여 순차 처리 없이 병렬 연산이 가능함. RNN, LSTM 순차적 처리 → 느림 장기의존성 문제 Attention 기반 병렬 처리 전 범위 의존성 처리 가능",
+      "difficulty": "hard",
+      "category": "AI 기초 이해"
+    },
+    {
+      "id": "ba5e5049-5590-4754-ad51-20bdc7725b71",
+      "documentName": "Workbook_04",
+      "page": 28,
+      "question": "대규모 언어 모델(LLM)의 핵심 구성요소 중, 입력된 텍스트를 단어, 부분 단어, 심볼 등의 작은 단위로 분해하는 과정을 무엇이라고 하는가?",
+      "choices": [
+        "① Tokenization",
+        "② Embedding 계층",
+        "③ Transformer 블록",
+        "④ 위치 Encoding"
+      ],
+      "answerIndex": 0,
+      "explanation": "정답: ① Tokenization은 텍스트를 단어, 부분 단어, 심볼 등의 토큰으로 분해하는 과정이다. 오답: ② Embedding 계층은 각 토큰을 고정된 차원의 벡터로 변환하며, ③ Transformer 블록은 Self-Attention 등을 반복하여 문맥을 이해하고, ④ 위치 Encoding은 순서 정보를 포함시켜 시퀀스 데이터를 처리한다.",
+      "sourceText": "LLM 의 구성요소 LLM 의 개념과 구조 텍스트를 단어 , 부분 단어 , 심볼 등의 토큰으로 분해 Tokenization",
+      "difficulty": "easy",
+      "category": "AI 기초 이해"
+    },
+    {
+      "id": "95c3b322-29ce-49bf-b932-643814b7729c",
+      "documentName": "Workbook_05",
+      "page": 22,
+      "question": "KBI 금융사는 고객의 신용 평가 모델을 고도화하기 위해, 고객의 온라인 활동 패턴과 관심사를 파악하고자 한다. 이 경우 활용하기에 가장 적합한 대체 데이터 유형은 무엇인가?",
+      "choices": [
+        "① 위성 이미지 데이터",
+        "② 웹ᆞ앱 트래킹 데이터",
+        "③ ESG 데이터",
+        "④ 위치 데이터"
+      ],
+      "answerIndex": 1,
+      "explanation": "정답: ② 웹ᆞ앱 트래킹 데이터는 방문자 수, 체류 시간 등을 통해 디지털 마케팅 효과 분석 및 고객의 온라인 활동 패턴을 파악하는 데 활용될 수 있다. 오답: ① 위성 이미지 데이터는 기업 실적 및 원자재 수요 예측에, ③ ESG 데이터는 지속가능 투자 전략 수립에, ④ 위치 데이터는 상권 분석 및 매출 예측에 주로 사용된다.",
+      "sourceText": "방문자 수 , 체류 시간을 통한 디지털 마케팅 효과 분석 웹ᆞ앱 트래킹 데이터",
+      "difficulty": "medium",
+      "category": "금융 AI 활용"
+    },
+    {
+      "id": "082e2a9f-1afd-4c4f-a892-aeea934ef524",
+      "documentName": "Workbook_06",
+      "page": 8,
+      "question": "금융 AI 모델 개발 과정에서 데이터셋을 검토하던 중, 특정 고객의 주소는 '서울'로 기록되어 있는데 해당 고객의 우편번호는 '부산'으로 입력되어 있는 것을 발견했다. 이러한 데이터 품질 문제는 다음 중 무엇에 해당하는가?",
+      "choices": [
+        "① 잡음 (Noise)",
+        "② 이상치 (Outlier)",
+        "③ 부적합 (Inconsistent)",
+        "④ 결측치 (Missing Value)"
+      ],
+      "answerIndex": 2,
+      "explanation": "정답: ③ 주소는 '서울'인데 우편번호가 '부산'인 경우는 데이터 간의 논리적 모순이나 표현 방식의 불일치에 해당하므로 '부적합(Inconsistent)'이다. 오답: ① 잡음은 무작위적인 오류나 불필요한 정보, ② 이상치는 일반적인 패턴에서 크게 벗어나는 값, ④ 결측치는 특정 항목의 값이 누락되어 비어 있는 상태를 의미한다.",
+      "sourceText": "데이터 간의 논리적 모순이나 표현 방식의 불일치 부적합 (Inconsistent) 예 주소는 ‘ 서울 ’ 인데 우편번호는 ‘ 부산 ’ 인 경우 예",
+      "difficulty": "hard",
+      "category": "AI 리스크관리"
+    },
+    {
+      "id": "7af249cb-de04-44bd-ba01-7b360ee92ec8",
+      "documentName": "Workbook_06",
+      "page": 29,
+      "question": "데이터 전처리 전략 중, 데이터의 분산을 최대한 보존하면서 새로운 축으로 데이터를 투영하여 차원을 줄이는 기법은 무엇인가?",
+      "choices": [
+        "① 차원 축소",
+        "② 특성 선택",
+        "③ 샘플링",
+        "④ 데이터 압축"
+      ],
+      "answerIndex": 0,
+      "explanation": "정답: ① 차원 축소는 데이터의 분산을 최대한 보존하면서 새로운 축으로 데이터를 투영하여 차원을 줄이는 기법이다. 오답: ② 특성 선택은 모델 성능에 큰 영향을 미치는 중요한 변수들만 선택하는 기법이며, ③ 샘플링은 데이터가 너무 많을 경우 일부만 추출하여 분석하는 기법이고, ④ 데이터 압축은 원본 데이터의 의미를 유지하면서 저장 공간을 절약하는 기법이다.",
+      "sourceText": "데이터의 분산을 최대한 보존하면서 , 새로운 축으로 데이터를 투영해서 차원을 줄이는 기법 차원 축소",
+      "difficulty": "medium",
+      "category": "AI 기초 이해"
+    },
+    {
+      "id": "c5e3c168-c069-450a-ae1d-309c4eb60803",
+      "documentName": "Workbook_06",
+      "page": 73,
+      "question": "시계열 데이터 전처리 전략 중 '정상성 확보'의 주된 목적은 무엇인가?",
+      "choices": [
+        "① 데이터의 통계적 특성을 일정하게 만드는 것",
+        "② 데이터의 시간을 일치시키는 리샘플링을 수행하는 것",
+        "③ '월', '요일' 등 시간 기반 특성을 추출하는 것",
+        "④ 숫자를 벡터로 변환하여 임베딩하는 것"
+      ],
+      "answerIndex": 0,
+      "explanation": "정답: ① '정상성 확보'는 시계열 데이터의 통계적 특성(평균, 분산 등)을 시간의 변화에 관계없이 일정하게 만드는 것을 의미한다. 오답: ②는 리샘플링, ③은 시간 기반 특성 생성, ④는 텍스트 데이터의 임베딩에 해당한다.",
+      "sourceText": "시계열 : 데이터의 시간을 맞추는 리샘플링 → 통계적 특성을 일정하게 만드는 정상성 확보 → ‘ 월 ’, ‘ 요일 ’ 등을 추출하는 시간 기반 특성 생성",
+      "difficulty": "medium",
+      "category": "AI 기초 이해"
+    },
+    {
+      "id": "39f9782b-48fc-4f0d-b21b-8f7ab2f77657",
+      "documentName": "Workbook_07",
+      "page": 37,
+      "question": "증권업에서의 AI 기술 활용에 대한 설명으로 올바른 것은?",
+      "choices": [
+        "① 로보어드바이저: 시장 데이터 분석으로 최적 매수·매도 타이밍을 포착한다.",
+        "② 알고리즘 트레이딩: 개인 맞춤형 포트폴리오를 구성하고 자동 리밸런싱한다.",
+        "③ AI 기반 투자 리서치: 방대한 기업 공시와 뉴스를 자동 분석 및 요약한다.",
+        "④ 시장 감시 및 이상거래 탐지: 실시간으로 데이터를 처리하여 신속한 투자 결정을 가능하게 한다."
+      ],
+      "answerIndex": 2,
+      "explanation": "정답: ③ 'AI 기반 투자 리서치'는 방대한 기업 공시와 뉴스를 자동 분석 및 요약하는 기능을 한다. 오답: ①은 알고리즘 트레이딩의 설명이며, ②는 로보어드바이저의 설명이다. ④는 알고리즘 트레이딩의 전반적인 이점 중 하나로, 시장 감시 및 이상거래 탐지의 직접적인 기능 설명은 아니다.",
+      "sourceText": "알고리즘 트레이딩 : 시장 데이터 분석으로 최적 매수 · 매도 타이밍 포착 / AI 기반 투자 리서치 : 방대한 기업 공시와 뉴스 자동 분석 및 요약 / 로보어드바이저 : 개인 맞춤형 포트폴리오 구성 및 자동 리밸런싱",
+      "difficulty": "medium",
+      "category": "금융 AI 활용"
+    }
+  ],
+  "createdAt": "2026-06-10T14:37:58.689Z",
+  "totalQuestions": 10
+}
